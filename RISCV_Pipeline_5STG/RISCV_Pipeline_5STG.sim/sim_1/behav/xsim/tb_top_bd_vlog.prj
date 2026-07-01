@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/2025.2/Vivado/data/rsb/busdef" --include "../../../../RISCV_Pipeline_5STG.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../RISCV_Pipeline_5STG.gen/sources_1/bd/design_1/ipshared/9a25/hdl" --include "../../../../RISCV_Pipeline_5STG.gen/sources_1/bd/design_1/ipshared/f0b6/hdl/verilog" --include "../../../../RISCV_Pipeline_5STG.gen/sources_1/bd/design_1/ipshared/00fe/hdl/verilog" --include "C:/2025.2/Vivado/data/xilinx_vip/include" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/EX_MEM_REG.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/Hazard_unit.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/ID_EX_REG.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/IF_ID_REG.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/MEM_WB_REG.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/alu.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/branch_unit.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/control_unit.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/data_memory_dp.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/datapath.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/immediate_generator.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/instruction_fetch_unit.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/instruction_memory.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/register_file.v" \
+"../../../../../RISC-V_Modified_MNIST_CodeGoc/top.v" \
+"../../../../RISCV_Pipeline_5STG.srcs/sim_1/new/tb_top_bd.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
