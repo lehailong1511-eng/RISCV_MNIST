@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Da nap anh #1 (nhan 2), nha reset, CPU dang suy luan...
+
+Chu so doc qua port B = 2
+Chu so tren LED        = 2 (binary 0010)
+
+RESULT: PASS  (nap anh #1 -> du doan = 2, khop nhan)
+$finish called at time : 10002030 ns : File "D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISCV_Pipeline_5STG/RISCV_Pipeline_5STG.srcs/sim_1/new/tb_top_bd.v" Line 65
