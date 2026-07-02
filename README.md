@@ -1,3 +1,2 @@
 # RISCV_MNIST
-# Link Youtube
-https://www.youtube.com/watch?v=kp-klSWMF-U
+# Link Youtube: https://www.youtube.com/watch?v=kp-klSWMF-U
