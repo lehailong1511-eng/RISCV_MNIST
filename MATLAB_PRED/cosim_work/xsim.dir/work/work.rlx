@@ -1,0 +1,20 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/MATLAB_PRED/cosim_work/tb_cosim.v,1782753131,verilog,,,,tb_cosim,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/EX_MEM_REG.v,1782402480,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/MEM_WB_REG.v,,EX_MEM_REG,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/Hazard_unit.v,1781432829,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/instruction_memory.v,,Hazard_unit,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/ID_EX_REG.v,1781432831,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/EX_MEM_REG.v,,ID_EX_REG,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/IF_ID_REG.v,1781432832,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/ID_EX_REG.v,,IF_ID_REG,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/MEM_WB_REG.v,1782403012,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/Hazard_unit.v,,MEM_WB_REG,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/alu.v,1781432816,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/register_file.v,,alu,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/branch_unit.v,1781432818,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/instruction_fetch_unit.v,,branch_unit,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/control_unit.v,1781432817,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/datapath.v,,control_unit,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/data_memory_dp.v,1782738166,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/top.v,,data_memory_dp,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/datapath.v,1782402370,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/alu.v,,data_path,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/immediate_generator.v,1781432827,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/branch_unit.v,,immediate_generator,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/instruction_fetch_unit.v,1781432828,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/IF_ID_REG.v,,instruction_fetch_unit,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/instruction_memory.v,1781432821,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/data_memory_dp.v,,instruction_memory,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/register_file.v,1781432826,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/immediate_generator.v,,register_file,,,,,,,,
+D:/New_folder/Nam_3/Ki_2/HWandSW/Project/RISC-V_Modified_MNIST_CodeGoc/top.v,1782758319,verilog,,D:/New_folder/Nam_3/Ki_2/HWandSW/Project/MATLAB_PRED/cosim_work/tb_cosim.v,,top,,,,,,,,
